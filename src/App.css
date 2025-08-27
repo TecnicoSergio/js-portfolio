@@ -20,6 +20,17 @@ card-title {
   color: #6b4226;
 }
 
+.footer {
+      background: #0f172a;
+      color: white;
+      padding: 30px 20px;
+      margin-top: 50px;
+    }
+    .footer a {
+      color: #16a34a;
+      text-decoration: none;
+    }
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
